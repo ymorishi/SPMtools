@@ -1,4 +1,4 @@
-# Yosuke's useful tools for SPM
+# Useful tools for SPM
 
 ## Tools to extract beta estimates from group-level (2nd level/RFX) SPM
 ### rfxbeta_localmax.m
