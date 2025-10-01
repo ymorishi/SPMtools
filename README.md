@@ -17,7 +17,7 @@ Extracting beta estimates
 Specify group level (RFX) SPM.mat file then extract beta estimate from 
   - mask image specified
 
-## Nifty image viewer with FSLeye's movie like function
+## Nifty image viewer with FSLeye's movie like functionality
 ### nifti4d_viewer.m
 
 ## NIFTI image manipulation
