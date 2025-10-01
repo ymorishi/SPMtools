@@ -3,6 +3,7 @@
 ## Tools to extract beta estimates from group-level (2nd level/RFX) SPM
 ### rfxbeta_localmax.m
 Extracting beta estimates
+
 Specify group level (RFX) SPM.mat file then extract beta estimate from 
   - a single coordinate specified
   - searching individual local maxima within X mm from a peak coordinate specified
