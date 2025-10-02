@@ -17,8 +17,15 @@ Extracting beta estimates
 Specify group level (RFX) SPM.mat file then extract beta estimate from 
   - mask image specified
 
+## A tool to extract values of voxles defined by a mask image
+### extract_from_mask.m
+The voxel space of mask image (bounding box or voxel size) is not necessary to match to images to extract
+Using a part of Ged Ridgway's "resize_img.m" to resize the mask image 
+
+
 ## Nifty image viewer with FSLeye's movie like functionality
 ### nifti4d_viewer.m
+Display nifti 4D image like a gif movie together with frame-wise displacement computed from rp_.txt
 
 ## NIFTI image manipulation
 ### flip_img.m
