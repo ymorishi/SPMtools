@@ -35,3 +35,8 @@ Flip LR-RL format (convert from SPM to FSL or FSL to SPM)
 Slice 4D Nifti images (volume level)
   Similar to FSLROI in FSL
 
+## Mask image for SPM statistics
+### brainmask.nii
+Whole brain mask image created from CAT12's gray and white matter images. 
+
+
